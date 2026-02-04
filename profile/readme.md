@@ -58,7 +58,7 @@ Roll No | Name | Repo URL | Leetcode URL | Current Status
 51 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 52 | Saran K | [Github](https://github.com/Saran-K-07/leetcode-solve) | [Leetcode](https://leetcode.com/u/XRqvjyA8wc/) | ![](https://leetcard.jacoblin.cool/XRqvjyA8wc)
 53 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
-54 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
+54 | Sinthiya R  | [Github](https://github.com/sinthiya121/leetcode-solution) | [Leetcode](https://leetcode.com/u/sinthiyaram12/) | ![](https://leetcard.jacoblin.cool/sinthiyaram12)
 55 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 56 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 57 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
