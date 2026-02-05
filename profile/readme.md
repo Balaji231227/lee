@@ -59,7 +59,7 @@ Roll No | Name | Repo URL | Leetcode URL | Current Status
 55 | Sri Sakthi DInesh S | [Github](https://github.com/Dinesh55-07/leetcode-tracker) | [Leetcode](https://leetcode.com/u/GUCuNMkSyA/) | ![](https://leetcard.jacoblin.cool/GUCuNMkSyA)
 56 | SRIREVANTH A | [Github](https://github.com/29REV/lcoderev) | [Leetcode](https://leetcode.com/u/SRIREVANTHA) | ![](https://leetcard.jacoblin.cool/SRIREVANTHA)
 57 | Subashree P | [Github](https://github.com/Subashree0617/leetcodesolutions) | [Leetcode](https://leetcode.com/u/SUBASHREEP) | ![](https://leetcard.jacoblin.cool/SUBASHREEP)
-58 | SUKANT R | [Github](https://github.com/Sukant-r/LeetCode.git) | [Leetcode](https://leetcode.com/u/Sukant_6/) | ![](https://leetcard.jacoblin.cool/Sukant_6)
+58 | SUKANT R | [Github](https://github.com/Sukant-r/LeetCode) | [Leetcode](https://leetcode.com/u/Sukant_6/) | ![](https://leetcard.jacoblin.cool/Sukant_6)
 59 | Tamil selvan M | [Github](https://github.com/tamilramana/leetcode-solutions) | [Leetcode](https://leetcode.com/u/tamil_selvan25/) | ![](https://leetcard.jacoblin.cool/tamil_selvan25)
 60 | Thanusree S | [Github](https://github.com/thanusree-s-2/my-project) | [Leetcode](https://leetcode.com/u/Thanu_02/) | ![](https://leetcard.jacoblin.cool/Thanu_02)
 61 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
