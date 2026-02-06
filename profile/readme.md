@@ -23,7 +23,7 @@ Roll No | Name | Repo URL | Leetcode URL | Current Status
 19  | Jawagar G | [Github](https://github.com/Jawagar007/Leetcode-Codes) | [Leetcode](https://leetcode.com/u/AqtAhdPP8g/) | ![](https://leetcard.jacoblin.cool/AqtAhdPP8g)
 20 | JENIFER CM  | [Github](https://github.com/JeniferCM001/LcodetrackJen001) | [Leetcode](https://leetcode.com/u/JeniferCM/) | ![](https://leetcard.jacoblin.cool/JeniferCM)
 21 | Joel Anand L V | [Github](https://github.com/joelanand2006/leetcode-solution) | [Leetcode](https://leetcode.com/u/joelanand/) | ![](https://leetcard.jacoblin.cool/joelanand)
-22 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
+22 | Kanakathara P | [Github](https://github.com/kanakathara16/leetcode-solution) | [Leetcode](https://leetcode.com/u/Kanakatharap/) | ![](https://leetcard.jacoblin.cool/Kanakatharap)
 23 | KAVIN PRASATH K | [Github](https://github.com/Kavin-sudo1/leetcode-daily-practice) | [Leetcode](https://leetcode.com/u/Kavin-2006/) | ![](https://leetcard.jacoblin.cool/Kavin-2006)
 24 | KEERTHANA K | [Github](https://github.com/keerthana021006/leetcodesolutions) | [Leetcode](https://leetcode.com/u/keerthana0206/) | ![](https://leetcard.jacoblin.cool/keerthana0206)
 25 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
